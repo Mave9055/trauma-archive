@@ -1,0 +1,52 @@
+{
+  "items": [
+    {
+      "id": "case-emotional-flashbacks",
+      "type": "case",
+      "slug": "emotional-flashbacks",
+      "title": "Emotional Flashbacks: Re-experiencing Trauma States",
+      "excerpt": "Exploring the nature of emotional flashbacks and their distinction from visual flashbacks.",
+      "psychological_breakdown": "Emotional flashbacks involve the sudden, involuntary re-experiencing of emotional states associated with past trauma. Unlike visual flashbacks, they may not include visual imagery but are characterized by intense emotional and physiological responses.",
+      "themes": "Emotional Flashbacks Memory Nervous System",
+      "url": "/case-files/emotional-flashbacks"
+    },
+    {
+      "id": "case-hypervigilance",
+      "type": "case",
+      "slug": "hypervigilance",
+      "title": "Hypervigilance: Constant Threat Detection",
+      "excerpt": "An exploration of hypervigilance as a trauma response and its impact on daily functioning.",
+      "psychological_breakdown": "Hypervigilance represents an elevated state of sensory sensitivity and threat detection. The nervous system remains in a state of heightened alert, scanning the environment for potential dangers.",
+      "themes": "Hypervigilance Nervous System Threat Detection",
+      "url": "/case-files/hypervigilance"
+    },
+    {
+      "id": "case-trauma-bonding",
+      "type": "case",
+      "slug": "trauma-bonding",
+      "title": "Trauma Bonding: Intense Connections Through Shared Pain",
+      "excerpt": "Understanding the psychological mechanisms behind trauma bonding and its implications for relationships.",
+      "psychological_breakdown": "Trauma bonding occurs when individuals who have experienced shared traumatic events form intense emotional attachments. The shared experience of danger and survival creates powerful neurochemical bonds.",
+      "themes": "Trauma Bonding Relationships Attachment",
+      "url": "/case-files/trauma-bonding"
+    },
+    {
+      "id": "memoir-ember-season",
+      "type": "memoir",
+      "slug": "ember-season",
+      "title": "Ember Season: A Memoir of Resilience",
+      "excerpt": "A personal narrative exploring the journey through trauma and the slow process of rebuilding.",
+      "url": "/memoir/ember-season"
+    }
+  ],
+  "options": {
+    "keys": [
+      "title",
+      "excerpt",
+      "themes",
+      "psychological_breakdown"
+    ],
+    "threshold": 0.3,
+    "includeScore": true
+  }
+}

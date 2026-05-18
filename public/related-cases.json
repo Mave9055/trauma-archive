@@ -1,0 +1,32 @@
+{
+  "emotional-flashbacks": [
+    {
+      "slug": "trauma-bonding",
+      "score": 0.41
+    },
+    {
+      "slug": "hypervigilance",
+      "score": 0.36
+    }
+  ],
+  "hypervigilance": [
+    {
+      "slug": "emotional-flashbacks",
+      "score": 0.36
+    },
+    {
+      "slug": "trauma-bonding",
+      "score": 0.32
+    }
+  ],
+  "trauma-bonding": [
+    {
+      "slug": "emotional-flashbacks",
+      "score": 0.41
+    },
+    {
+      "slug": "hypervigilance",
+      "score": 0.32
+    }
+  ]
+}
